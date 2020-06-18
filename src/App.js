@@ -134,7 +134,7 @@ class App extends Component {
       gifs: []
     }));
     //  here we grab the input and then focus our cursor back on it 
-    this.textInput.focus();
+    this.textInput.focus();  
   };
 
   render() {
